@@ -3,7 +3,7 @@
 
 *Default Structure for registerating pets*
 
-**Java 7**
+**Java 8**
 
 * Maven
 * JUnit 4
